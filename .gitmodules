@@ -5,3 +5,6 @@
 [submodule "ssprove"]
 	path = ssprove
 	url = git@github.com:SSProve/ssprove.git
+[submodule "hax"]
+	path = hax
+	url = git@github.com:soulwa/hax
