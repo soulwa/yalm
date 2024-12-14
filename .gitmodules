@@ -1,0 +1,3 @@
+[submodule "jasmin"]
+	path = jasmin
+	url = git@github.com:soulwa/jasmin
